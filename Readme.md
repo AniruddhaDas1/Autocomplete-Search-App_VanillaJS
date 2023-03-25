@@ -1,6 +1,6 @@
 #Project - Autocomplete Search
-![Project-Image](/proj-img.png)
-[Project Live Link](https://autocomplete-search-app-vanilla-js.vercel.app/)
+![Project-Image](/proj-img.jpg)
+- Live Link : [Project Live Link](https://autocomplete-search-app-vanilla-js.vercel.app/)
 
 ### Technology Used -
 
