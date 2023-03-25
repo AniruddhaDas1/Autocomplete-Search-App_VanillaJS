@@ -1,6 +1,12 @@
-#Project - Autocomplete Search
+# Project - Autocomplete Search
+
 ![Project-Image](/proj-img.jpg)
-- Live Link : [Project Live Link](https://autocomplete-search-app-vanilla-js.vercel.app/)
+
+## Project Details :
+
+_When a user searches anything in the search bar, suggestions must be shown in the dropdown (Don't use any frameworks)._
+
+- Project Live Link : [https://autocomplete-search-app-vanilla-js.vercel.app/](https://autocomplete-search-app-vanilla-js.vercel.app/)
 
 ### Technology Used -
 
@@ -21,6 +27,6 @@
 9. Project Testing
 10. Github & Vercel utilisation
 
-[Project Live Link](https://autocomplete-search-app-vanilla-js.vercel.app/)
+- Project Live Link : [https://autocomplete-search-app-vanilla-js.vercel.app/](https://autocomplete-search-app-vanilla-js.vercel.app/)
 
-## - built by Aniruddha | CoderX Community
+## - Developed by [Aniruddha](https://github.com/AniruddhaDas1) | CoderX Community | [EMail](mailto: aniruddha.295@gmail.com) | [Call](callto: 9123987124)
