@@ -29,4 +29,4 @@ _When a user searches anything in the search bar, suggestions must be shown in t
 
 - Project Live Link : [https://autocomplete-search-app-vanilla-js.vercel.app/](https://autocomplete-search-app-vanilla-js.vercel.app/)
 
-## - Developed by [Aniruddha](https://github.com/AniruddhaDas1) | CoderX Community | [WhatsApp](https://wa.me/9123987124)
+### - Developed by [Aniruddha](https://github.com/AniruddhaDas1) | CoderX Community | [Send Message to WhatsApp](https://wa.me/9123987124)
